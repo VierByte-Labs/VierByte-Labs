@@ -1,16 +1,17 @@
-## Hi there 👋
+# VierByte Labs
 
-<!--
-**VierByte-Labs/VierByte-Labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We design and develop scalable web and mobile solutions, helping businesses turn ideas into dependable products.
 
-Here are some ideas to get you started:
+## Stack
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Services
+- Web application development
+- UI/UX implementation
+- Performance optimization
+
+#3 Contact
+contact@vierbytelabs.com

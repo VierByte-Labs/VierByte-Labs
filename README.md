@@ -12,11 +12,13 @@ We design and develop scalable web and mobile solutions, helping businesses turn
 - TypeScript
 - Tailwind CSS
 - Node.js
+- GoLang
 
 ## Services
 - Web application development
 - UI/UX implementation
 - Performance optimization
+- Custom Software
 
 ## Contact
 contact@vierbytelabs.com
